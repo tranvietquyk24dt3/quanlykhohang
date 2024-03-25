@@ -1,0 +1,54 @@
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\bin\Debug\QuanlyKhohang.exe.config
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\bin\Debug\QuanlyKhohang.exe
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\bin\Debug\QuanlyKhohang.pdb
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\bin\Debug\EntityFramework.dll
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\bin\Debug\EntityFramework.xml
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.csproj.AssemblyReference.cache
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Chitietphieunhap.resources
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Chitietphieuxuat.resources
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Dangnhap.resources
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Form_KH.resources
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\GUI.Form_NCC.resources
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Form_NV.resources
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Huongdan.resources
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Khachhang.resources
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Nhacungcap.resources
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Phieunhap.resources
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Phieuxuat.resources
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Sanpham.resources
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.Properties.Resources.resources
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.QLKhohang.resources
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.csproj.GenerateResource.cache
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.csproj.CoreCompileInputs.cache
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKh.C46360E4.Up2Date
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.exe
+D:\New folder (7)\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.pdb
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\bin\Debug\QuanlyKhohang.exe.config
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\bin\Debug\QuanlyKhohang.exe
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\bin\Debug\QuanlyKhohang.pdb
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Chitietphieunhap.resources
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Chitietphieuxuat.resources
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Dangnhap.resources
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Form_KH.resources
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\GUI.Form_NCC.resources
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Form_NV.resources
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Huongdan.resources
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Khachhang.resources
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Nhacungcap.resources
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Phieunhap.resources
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Phieuxuat.resources
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.GUI.Sanpham.resources
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.Properties.Resources.resources
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.QLKhohang.resources
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKh.C46360E4.Up2Date
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.exe
+C:\Users\admin\Downloads\QuanLyKhoHang-master (1)\QuanLyKhoHang-master\QuanlyKhohang\obj\Debug\QuanlyKhohang.pdb
